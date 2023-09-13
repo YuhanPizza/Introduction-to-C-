@@ -36,37 +36,37 @@ This workshop is designed to provide you with my very own hands-on experience in
    - Create an application for managing cooking ingredients.
 
 ### 10. Inline Variable Changes Cout
-    - Practice inline variable changes and using `cout` for output.
+   - Practice inline variable changes and using `cout` for output.
 
 ### 11. Number of Days Program
-    - Write a program to calculate the number of days between two dates.
+   - Write a program to calculate the number of days between two dates.
 
 ### 12. Odd or Even
-    - Determine whether a number is odd or even.
+   - Determine whether a number is odd or even.
 
 ### 13. Post & Pre
-    - Understand the difference between post-increment and pre-increment operators.
+   - Understand the difference between post-increment and pre-increment operators.
 
 ### 14. Practicing doWhileLoops
-    - Practice using `do...while` loops in various scenarios.
+   - Practice using `do...while` loops in various scenarios.
 
 ### 15. Reversing Number
-    - Create a program to reverse a given number.
+   - Create a program to reverse a given number.
 
 ### 16. Simple Cout
-    - Get familiar with basic `cout` usage for displaying information.
+   - Get familiar with basic `cout` usage for displaying information.
 
 ### 17. Simple Walkthrough Practice
-    - Walk through code examples to understand the logic.
+   - Walk through code examples to understand the logic.
 
 ### 18. Swapping Values
-    - Implement a program to swap the values of two variables.
+   - Implement a program to swap the values of two variables.
 
 ### 19. Type of Triangle
-    - Determine the type of triangle based on given side lengths.
+   - Determine the type of triangle based on given side lengths.
 
 ### 20. While Loop
-    - Explore the usage of `while` loops in C++.
+   - Explore the usage of `while` loops in C++.
 
 ## My Journey
 
